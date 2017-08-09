@@ -49,6 +49,9 @@ export class NodesPanel extends React.Component {
           <Node type='connection' color='rgb(12, 193, 180)' />
         </div>
         <div className='node-wrapper'>
+          <Node type='connection' color='rgb(14, 144, 180)' />
+        </div>
+        <div className='node-wrapper'>
           <Node type='input' />
         </div>
       </div>
